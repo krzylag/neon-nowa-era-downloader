@@ -2,6 +2,8 @@
 
 > **⚠️ Disclaimer:** To repo jest do użytku tylko dla mojego syna, który chyba spełnia definicję osoby bliskiej, zgodnie z disclaimerem na pierwszej stronie każdego podręcznika Nowej Ery. Zresztą, żeby to pobrać, i tak trzeba mieć login i hasło do zalogowania się na ich stronę - poproś nauczyciela.
 
+Serdecznie dziękujemy Claude Sonnet 4 za przygotowanie 100% wszystkiego, łącznie z tym readme.
+
 ## 🚀 Instrukcja krok po kroku
 
 ### 1. Przygotowanie środowiska
